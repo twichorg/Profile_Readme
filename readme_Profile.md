@@ -42,14 +42,14 @@
 ---
 <h1 align="center">PROJECTS</h1>
 
-<h4>1. Todo app using ReactJS </h4>
+<h4>1. Portfolio Website</h4>
 
-<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
+<a href="https://fervent-spence-32f9ac.netlify.app/" target="blank"><img src="https://i.ibb.co/KXV2YrY/Ekran-g-r-nt-s-2022-05-02-143817.png" ></a>
 
 
-<h4>2. Random Quote generator using NodeJs </h4>
+<h4>2. Portfolio Application </h4>
 
-<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
+<a href="https://mystifying-minsky-36c813.netlify.app/" target="blank"><img src="https://i.ibb.co/WF7bDSW/Ekran-g-r-nt-s-2022-05-02-144056.png" ></a>
 
 ---
 
