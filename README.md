@@ -44,7 +44,7 @@
 
 <h4>1. Portfolio Website</h4>
 
-<a href="https://fervent-spence-32f9ac.netlify.app/" target="blank"><img src="https://i.ibb.co/KXV2YrY/Ekran-g-r-nt-s-2022-05-02-143817.png" ></a>
+<a href="https://musical-mandazi-925238.netlify.app/" target="blank"><img src="https://i.ibb.co/7SrXzmv/1.png" ></a>
 
 
 <h4>2. Portfolio Application </h4>
