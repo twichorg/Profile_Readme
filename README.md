@@ -42,7 +42,11 @@
 ---
 <h1 align="center">PROJECTS</h1>
 
-<h4>1. Entertaiment Application(React,Rest Apı,Context, Router, Filter, Navigate)</h4>
+<h4>1. AKT Commerce(React,Styled Component, Router,Context, Api, Filter, Navigate) </h4>
+
+<a href="https://willowy-bonbon-b27eaf.netlify.app/" target="blank"><img src="https://i.ibb.co/2PHyDjG/3.png" ></a>
+
+<h4>2. Entertaiment Application(React,Rest Apı,Context, Router, Filter, Navigate)</h4>
 
 <a href="https://musical-mandazi-925238.netlify.app/" target="blank"><img src="https://i.ibb.co/7SrXzmv/1.png" ></a>
 
@@ -51,17 +55,18 @@
 
 <a href="https://mystifying-minsky-36c813.netlify.app/" target="blank"><img src="https://i.ibb.co/WF7bDSW/Ekran-g-r-nt-s-2022-05-02-144056.png" ></a>
 
-<h4>3. BileteGel.com(React,Styled Component,Context, Router, Rest Api, Filter) </h4>
+<h4>3. BileteGel.com(React,Styled Component,Context, Router, Rest Api) </h4>
 
 <a href="https://peppy-starburst-e02b42.netlify.app/" target="blank"><img src="https://i.ibb.co/gDj0X44/2.png" ></a>
 
-<h4>4. AKT Commerce(React,Styled Component, Router,Context, Rest Api, Filter, Navigate) </h4>
-
-<a href="https://willowy-bonbon-b27eaf.netlify.app/" target="blank"><img src="https://i.ibb.co/2PHyDjG/3.png" ></a>
-
-<h4>5. Expense Tracker(React,Styled Component, Router, Rest Api, Filter, Navigate, Context, Reducer) </h4>
+<h4>5. Expense Tracker(React, Router, Rest Api, Filter, Navigate, Context, Reducer) </h4>
 
 <a href="https://luminous-biscuit-d3f299.netlify.app/" target="blank"><img src="https://i.ibb.co/CM66rdy/6.png" ></a>
+
+<h4>6. Redux Counter(React, Context, Redux, Reducer) </h4>
+
+<a href="https://ornate-medovik-400862.netlify.app/" target="blank"><img src="https://i.ibb.co/bB1kgDT/9.png" ></a>
+
 
 
 
