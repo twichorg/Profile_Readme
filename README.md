@@ -50,20 +50,19 @@
 
 <a href="https://musical-mandazi-925238.netlify.app/" target="blank"><img src="https://i.ibb.co/7SrXzmv/1.png" ></a>
 
-
-<h4>2. Portfolio Application(React,Styled Component, Router) </h4>
+<h4>3. Portfolio Application(React,Styled Component, Router) </h4>
 
 <a href="https://mystifying-minsky-36c813.netlify.app/" target="blank"><img src="https://i.ibb.co/WF7bDSW/Ekran-g-r-nt-s-2022-05-02-144056.png" ></a>
 
-<h4>3. BileteGel.com(React,Styled Component,Context, Router, Rest Api) </h4>
+<h4>4. BileteGel.com(React,Styled Component,Context, Router, Rest Api) </h4>
 
 <a href="https://peppy-starburst-e02b42.netlify.app/" target="blank"><img src="https://i.ibb.co/gDj0X44/2.png" ></a>
 
-<h4>5. Expense Tracker(React, Router, Rest Api, Filter, Navigate, Context, Reducer) </h4>
+<h4>5. Expense Tracker(React, Router , Context, Reducer) </h4>
 
 <a href="https://luminous-biscuit-d3f299.netlify.app/" target="blank"><img src="https://i.ibb.co/CM66rdy/6.png" ></a>
 
-<h4>6. Books Store (React,Redux,Reducer,Hooks) </h4>
+<h4>6. Books Store (React, Hooks, Redux, Reducer, Filter) </h4>
 
 <a href="https://jocular-cheesecake-f1a89a.netlify.app/" target="blank"><img src="https://i.ibb.co/wdG9mVz/1.png" ></a>
 
