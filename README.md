@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on https://github.com/twichorg/AktCommerce
+- 🔭 I’m currently working on https://github.com/twichorg/AKT-Commercial-App
 
 - 🌱 I’m currently learning **M E R N**
 
