@@ -42,9 +42,9 @@
 ---
 <h1 align="center">PROJECTS</h1>
 
-<h4>1. AKT Commerce(React,Styled Component, Router,Context, Api, Navigate, Hooks) </h4>
+<h4>1. AKT Commerce(React,Styled Component, Router,Context, Api, Filter, Navigate) </h4>
 
-<a href="https://willowy-bonbon-b27eaf.netlify.app/" target="blank"><img src="https://i.ibb.co/2PHyDjG/3.png" ></a>
+<a href="https://steady-conkies-f62e11.netlify.app/" target="blank"><img src="https://i.ibb.co/2PHyDjG/3.png" ></a>
 
 <h4>2. Entertaiment Application(React,Rest Apı,Context, Router, Filter, Navigate)</h4>
 
