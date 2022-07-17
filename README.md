@@ -66,7 +66,12 @@
 
 <a href="https://jocular-cheesecake-f1a89a.netlify.app/" target="blank"><img src="https://i.ibb.co/wdG9mVz/1.png" ></a>
 
-<h4>7. Redux Counter(React, Hooks, Redux, Reducer) </h4>
+<h4>7. Phone Application(React, Reducer, Hooks, Redux, Api) </h4>
+
+<a href="https://stalwart-pony-47299d.netlify.app/" target="blank"><img src="https://i.ibb.co/kDpNwfd/Ekran-g-r-nt-s-2022-07-17-224826.png" ></a>
+
+
+<h4>8. Redux Counter(React, Hooks, Redux, Reducer) </h4>
 
 <a href="https://ornate-medovik-400862.netlify.app/" target="blank"><img src="https://i.ibb.co/bB1kgDT/9.png" ></a>
 
