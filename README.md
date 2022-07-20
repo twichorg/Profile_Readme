@@ -29,12 +29,6 @@
 </p>
 
 ---
-
-<h1 align="center">STATS</h1>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichorg&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="twichorg" /></p>
-
----
 <h1 align="center">PROJECTS</h1>
 
 <h4>1. AKT Commerce(React,Styled Component, Router,Context, Api, Filter, Navigate) </h4>
