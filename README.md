@@ -32,11 +32,6 @@
 
 <h1 align="center">STATS</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=twichorg" alt="twichorg" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twichorg&theme=gotham&show_icons=true" alt="twichorg" />
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=twichorg&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="twichorg" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichorg&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="twichorg" /></p>
 
 ---
