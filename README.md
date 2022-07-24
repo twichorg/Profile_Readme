@@ -41,7 +41,7 @@
 
 <h4>3. Entertaiment Application(React,Rest Apı,Context, Router, Filter, Navigate)</h4>
 
-<a href="https://musical-mandazi-925238.netlify.app/" target="blank"><img src="https://i.ibb.co/7SrXzmv/1.png" ></a>
+<a href="https://musical-mandazi-925238.netlify.app/" target="blank"><img src="https://i.ibb.co/N3Kyvv0/1.png" ></a>
 
 <h4>4. Portfolio Application(React,Styled Component, Router) </h4>
 
