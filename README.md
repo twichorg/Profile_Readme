@@ -31,9 +31,9 @@
 ---
 <h1 align="center">PROJECTS</h1>
 
-<h4>1. Upayment-react-project(React,API Calls(Post, Delete, Get),Router, Context, Rest API, Filter, Navigate,) </h4>
+<h4> Akinsoft-CentralBank-Curreny-project(React, Rest API, Filter, Sort, Navigate) </h4>
 
-<a href="https://lucent-tiramisu-dfc777.netlify.app/" target="blank"><img src="https://i.ibb.co/xXnwrrw/1.png" ></a>
+<a href="https://lustrous-praline-96c2e4.netlify.app/" target="blank"><img src="https://i.ibb.co/Z8bHYVC/Ekran-g-r-nt-s-2022-11-07-201850.png" ></a>
 
 <h4>2. AKT Commerce(React,Styled Component, Router,Context, Api, Filter, Navigate) </h4>
 
